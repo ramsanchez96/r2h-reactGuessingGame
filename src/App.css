@@ -1,0 +1,9 @@
+.App {
+  text-align: center;
+  background-color: orange;
+  width:800px;
+  display: flex;
+  flex-flow: column;
+  justify-content: center;
+  color: white;
+}
